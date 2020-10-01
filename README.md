@@ -1,3 +1,3 @@
 # project1
 Simple program
-Simple Calculator
+Simple Calculator in html
